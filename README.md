@@ -115,16 +115,6 @@ I enjoy using analytical tools and data-driven methodologies to uncover patterns
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saidarshan-behera&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
